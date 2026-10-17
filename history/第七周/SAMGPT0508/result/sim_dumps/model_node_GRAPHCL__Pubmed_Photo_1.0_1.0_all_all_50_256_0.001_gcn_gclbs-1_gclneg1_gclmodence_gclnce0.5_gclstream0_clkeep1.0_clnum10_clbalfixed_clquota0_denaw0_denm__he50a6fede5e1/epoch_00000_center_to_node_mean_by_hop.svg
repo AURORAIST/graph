@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600">Center Node Similarity by BFS Hop</text>
+<line x1="85" y1="525" x2="950" y2="525" stroke="#222"/>
+<line x1="85" y1="55" x2="85" y2="525" stroke="#222"/>
+<line x1="85" y1="464.21" x2="950" y2="464.21" stroke="#999" stroke-dasharray="4 4"/>
+<line x1="85.00" y1="525" x2="85.00" y2="531" stroke="#222"/>
+<text x="85.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">1</text>
+<text x="85.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=1</text>
+<line x1="258.00" y1="525" x2="258.00" y2="531" stroke="#222"/>
+<text x="258.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">2</text>
+<text x="258.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=4</text>
+<line x1="431.00" y1="525" x2="431.00" y2="531" stroke="#222"/>
+<text x="431.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">3</text>
+<text x="431.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=3</text>
+<line x1="604.00" y1="525" x2="604.00" y2="531" stroke="#222"/>
+<text x="604.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">4</text>
+<text x="604.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=29</text>
+<line x1="777.00" y1="525" x2="777.00" y2="531" stroke="#222"/>
+<text x="777.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">5</text>
+<text x="777.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=102</text>
+<line x1="950.00" y1="525" x2="950.00" y2="531" stroke="#222"/>
+<text x="950.00" y="549" text-anchor="middle" font-family="Arial" font-size="12">6</text>
+<text x="950.00" y="567" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">n=360</text>
+<line x1="79" y1="525.00" x2="85" y2="525.00" stroke="#222"/>
+<text x="75" y="529.00" text-anchor="end" font-family="Arial" font-size="12">-0.11</text>
+<line x1="79" y1="407.50" x2="85" y2="407.50" stroke="#222"/>
+<text x="75" y="411.50" text-anchor="end" font-family="Arial" font-size="12">0.10</text>
+<line x1="79" y1="290.00" x2="85" y2="290.00" stroke="#222"/>
+<text x="75" y="294.00" text-anchor="end" font-family="Arial" font-size="12">0.32</text>
+<line x1="79" y1="172.50" x2="85" y2="172.50" stroke="#222"/>
+<text x="75" y="176.50" text-anchor="end" font-family="Arial" font-size="12">0.54</text>
+<line x1="79" y1="55.00" x2="85" y2="55.00" stroke="#222"/>
+<text x="75" y="59.00" text-anchor="end" font-family="Arial" font-size="12">0.76</text>
+<polyline points="85.00,108.33 258.00,141.43 431.00,349.70 604.00,416.21 777.00,431.17 950.00,471.58" fill="none" stroke="#E15759" stroke-width="2.4"/>
+<circle cx="85.00" cy="108.33" r="4" fill="#E15759"/>
+<circle cx="258.00" cy="141.43" r="4" fill="#E15759"/>
+<circle cx="431.00" cy="349.70" r="4" fill="#E15759"/>
+<circle cx="604.00" cy="416.21" r="4" fill="#E15759"/>
+<circle cx="777.00" cy="431.17" r="4" fill="#E15759"/>
+<circle cx="950.00" cy="471.58" r="4" fill="#E15759"/>
+<polyline points="85.00,108.33 258.00,143.02 431.00,350.63 604.00,414.16 777.00,433.76 950.00,479.52" fill="none" stroke="#4C78A8" stroke-width="2.4"/>
+<circle cx="85.00" cy="108.33" r="4" fill="#4C78A8"/>
+<circle cx="258.00" cy="143.02" r="4" fill="#4C78A8"/>
+<circle cx="431.00" cy="350.63" r="4" fill="#4C78A8"/>
+<circle cx="604.00" cy="414.16" r="4" fill="#4C78A8"/>
+<circle cx="777.00" cy="433.76" r="4" fill="#4C78A8"/>
+<circle cx="950.00" cy="479.52" r="4" fill="#4C78A8"/>
+<polyline points="85.00,108.33 258.00,104.16 431.00,308.67 604.00,388.02 777.00,387.12 950.00,403.19" fill="none" stroke="#59A14F" stroke-width="2.4"/>
+<circle cx="85.00" cy="108.33" r="4" fill="#59A14F"/>
+<circle cx="258.00" cy="104.16" r="4" fill="#59A14F"/>
+<circle cx="431.00" cy="308.67" r="4" fill="#59A14F"/>
+<circle cx="604.00" cy="388.02" r="4" fill="#59A14F"/>
+<circle cx="777.00" cy="387.12" r="4" fill="#59A14F"/>
+<circle cx="950.00" cy="403.19" r="4" fill="#59A14F"/>
+<polyline points="85.00,108.33 258.00,100.48 431.00,303.42 604.00,377.99 777.00,366.74 950.00,372.39" fill="none" stroke="#F28E2B" stroke-width="2.4"/>
+<circle cx="85.00" cy="108.33" r="4" fill="#F28E2B"/>
+<circle cx="258.00" cy="100.48" r="4" fill="#F28E2B"/>
+<circle cx="431.00" cy="303.42" r="4" fill="#F28E2B"/>
+<circle cx="604.00" cy="377.99" r="4" fill="#F28E2B"/>
+<circle cx="777.00" cy="366.74" r="4" fill="#F28E2B"/>
+<circle cx="950.00" cy="372.39" r="4" fill="#F28E2B"/>
+<line x1="820" y1="75" x2="844" y2="75" stroke="#E15759" stroke-width="3"/>
+<text x="852" y="79" font-family="Arial" font-size="13">mean</text>
+<line x1="820" y1="97" x2="844" y2="97" stroke="#4C78A8" stroke-width="3"/>
+<text x="852" y="101" font-family="Arial" font-size="13">p50</text>
+<line x1="820" y1="119" x2="844" y2="119" stroke="#59A14F" stroke-width="3"/>
+<text x="852" y="123" font-family="Arial" font-size="13">p90</text>
+<line x1="820" y1="141" x2="844" y2="141" stroke="#F28E2B" stroke-width="3"/>
+<text x="852" y="145" font-family="Arial" font-size="13">p95</text>
+<text x="517.5" y="592" text-anchor="middle" font-family="Arial" font-size="14">BFS hop distance</text>
+<text x="22" y="290.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 290.0)">cosine similarity</text>
+</svg>

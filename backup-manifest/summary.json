@@ -1,0 +1,12 @@
+{
+  "source": "/home/ustc1958/lxy/graph/history",
+  "repository": "https://github.com/AURORAIST/graph",
+  "branch": "备份",
+  "snapshot_time": "2026-10-17T09:40:04",
+  "included_files": 7411,
+  "included_bytes": 2975554069,
+  "excluded_directories": 566,
+  "excluded_files": 1198,
+  "complete_backup": false,
+  "original_files_modified": false
+}
